@@ -1,11 +1,15 @@
 body {
   font-family: Arial, sans-serif;
   background: linear-gradient(135deg, #667eea, #764ba2);
-  text-align: center;
-  color: white;
+
+  display: flex;
+  justify-content: center;   /* horizontal center */
+  align-items: center;       /* vertical center */
+
+  height: 100vh;             /* full screen height */
   margin: 0;
-  padding: 0;
-}
+  color: white;
+  }
 
 h1 {
   margin-top: 20px;
