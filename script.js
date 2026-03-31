@@ -33,3 +33,4 @@ function calculateDiscount() {
 function toggleDarkMode() {
   document.body.classList.toggle("dark");
     }
+/* update */
